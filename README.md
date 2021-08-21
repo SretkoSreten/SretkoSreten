@@ -24,6 +24,13 @@ I'm Developer
 Languages and Tools:
 ![](images/github-small.png)
 
-Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+Visual Studio 
+HTML5
+CSS
+JavaScript
+React
+Python
+Django
+NodeJS
 
 
