@@ -11,3 +11,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Yet dont know machine learning and ai
 -->
+
+Hi there, I'm Jesse - aka codeSTACKr 👋
+Website Twitter Follow
+
+I'm Developer
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2020 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love to draw and play guitar / drums
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
+
