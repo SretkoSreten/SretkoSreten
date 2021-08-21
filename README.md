@@ -22,6 +22,8 @@ I'm Developer
 ⚡ Fun fact: I love to draw and play guitar / drums
 
 Languages and Tools:
+![](images/github-small.png)
+
 Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
 
 
