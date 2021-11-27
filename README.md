@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Yet dont know machine learning and ai
 -->
 
-Hi there, I'm SretkoSreten 👋
-Website Twitter Follow
+Hi there, I'm SretkoSreten 
 
 I'm Developer
-🌱 I’m currently learning everything 🤣
+🌱 I’m currently learning backend 🤣
 👯 I’m looking to collaborate with other content creators
-🥅 2022 Goals: Contribute more to Open Source projects
+🥅 2022 Goals: Contribute more to Open Source projects 
+and get new friends
 
 Languages and Tools:
 ![](images/github-small.png)
