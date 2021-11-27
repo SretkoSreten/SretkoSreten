@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Yet dont know machine learning and ai
 -->
 
-Hi there, I'm Jesse - aka codeSTACKr 👋
+Hi there, I'm SretkoSreten 👋
 Website Twitter Follow
 
 I'm Developer
